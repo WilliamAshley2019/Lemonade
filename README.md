@@ -26,6 +26,8 @@ TO DO figure out how to run authorization through a plugin that is a host rather
 
 TO DO update the plugin database to mirror the FLP ORGANIZER database to create a common database system that can interact with fl studio's database when it exists to remove duplication of databases.
 
+To DO add a sidechain module that can be enabled that turns non sidechained plugins into a sidechain function enablement.
+
 
 
 It is still very buggy but I got a few of the basic goals done,
