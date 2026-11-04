@@ -20,3 +20,11 @@ TO DO improve the size loading and scaling.
 TO DO figure out how to run authorization through a plugin that is a host rather than the primary host.
 TO DO update the plugin database to mirror the FLP ORGANIZER database to create a common database system that can interact with fl studio's database
 when it exists to remove duplication of databases.
+
+
+It is still very buggy but I got a few of the basic goals done,
+a basic mixer rack that can load vst3s
+a mixer rack that can snap in plugins to load within the rack itself in a dedicated space
+minimization and maximization of the plugins.
+
+Sizing it still a little buggy for everything and the GUI can use a little more refinement but I met my intial milestones
