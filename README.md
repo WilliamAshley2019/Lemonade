@@ -36,6 +36,8 @@ TO DO update the plugin database to mirror the FLP ORGANIZER database to create 
 
 To DO add a sidechain module that can be enabled that turns non sidechained plugins into a sidechain function enablement.
 
+TO DO assign individual lemonade mixer tracks to DAW tracks by number????
+
 
 
 It is still very buggy but I got a few of the basic goals done,
