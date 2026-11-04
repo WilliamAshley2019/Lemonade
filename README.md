@@ -10,7 +10,7 @@ So I don't know which plugins are stable and which plugins are not if they need 
 loaded as an effect.   Interstingly in FL Studio the 16 tracks I think mirror FL Studio's mixer racks so they may be like a adaptor ontop of fl studio's mixer tracks.
 Currently only 16 tracks can be added plus the master.  
 
-Sidechains currently are only usable within the plugins sidechain functions itself, it is not as broad as say FL Studio mixer sidechain being everything in a track but rather it is per insert sidechain that sidechains to a given track
+Sidechains currently are only usable within the plugins sidechain functions itself, it is not as broad as say FL Studio mixer sidechain being everything in a track but rather it is per insert sidechain that sidechains to a given track. Only plugins with sidechain functions use that insert feature currently.
 
 I added a snap in function.   
 
