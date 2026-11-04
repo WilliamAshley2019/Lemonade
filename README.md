@@ -3,7 +3,7 @@
 First off I think this is GPLv3 I'm not aware of any MIT code at this time in the project, it was based of of LEMON Studio's mixer and developed further
 Lemon Studio's repo is here https://github.com/ItsAlphaNeon/Lemon-Studio also this fork is inspiring and equally a great source to draw from https://github.com/Dorfhaus/Lemon-Studio-Michael-Lane-Edition. Michael actually implemented a few things I was thinking about 2 days after I mentioned it and I'd still like to get some similar functionality into Lemonade for loading plugins in specific areas like SSL360 and UA CONSOLE for LUNA.
 
-BUILD INFO: Source structure is the Juce structure. Built in Visual Studio 2026  C++20  JUCE 8.0.12 I think plugins will build suprisingly. Its not very demanding. Otherwise really basic built should be clean. Very easy build.
+BUILD INFO: Source structure is the Juce structure. Built in Visual Studio 2026  C++20  JUCE 8.0.12 I think plugins will build suprisingly. Its not very demanding. Otherwise really basic built should be clean. Very easy build. https://github.com/juce-framework/JUCE
 
 I'll likely change the name of this mixer rack to Lemonade or something.
 
