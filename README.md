@@ -6,7 +6,7 @@ I'll likely change the name of this mixer rack to Lemonade or something.
 This is an adaptation on Lemon Studio's Mixer with quite a bit of additional adjustments. I have also started to add some new functions I like. 
 This is still a little buggy, but it is working and has some unique features. It should be considered unstable currently.
 Some plugins do not load as they have additional constraints that require escalation to the real host for verification - such as UAD2 plugins UADx seeems to load fine, waves loads fine. I havn't tested all plugins
-So I don't know which plugins are stable and which plugins are not if they need host authorization they may not work, this more or less functions as a mixer rack that can be 
+So I don't know which plugins are stable and which plugins are not if they need host authorization they may not work if they require hardware authorization as I think that may go through the daw itself not entirely sure. This more or less functions as a mixer rack that can be 
 loaded as an effect.   Interstingly in FL Studio the 16 tracks I think mirror FL Studio's mixer racks so they may be like a adaptor ontop of fl studio's mixer tracks.
 Currently only 16 tracks can be added plus the master.  
 
