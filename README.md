@@ -12,7 +12,7 @@ Currently only 16 tracks can be added plus the master.
 
 Sidechains currently are only usable within the plugins sidechain functions itself, it is not as broad as say FL Studio mixer sidechain being everything in a track but rather it is per insert sidechain that sidechains to a given track. Only plugins with sidechain functions use that insert feature currently.
 
-I added a snap in function.   
+I added a snap in function so plugins load  in a "rack display" area. 
 
 The plugin itself is rather large and likely needs to be resized, I need to work that out a bit so that it loads gracefully size wise.
 
