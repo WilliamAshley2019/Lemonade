@@ -1,5 +1,6 @@
 First off I think this is GPLv3 I'm not aware of any MIT code at this time in the project, it was based of of LEMON Studio's mixer and developed further
 Lemon Studio's repo is here https://github.com/ItsAlphaNeon/Lemon-Studio
+I'll likely change the name of this to Lemonaide or something.
 
 This is an adaptation on Lemon Studio's Mixer with quite a bit of additional adjustments. I have also started to add some new functions I like. 
 This is still a little buggy, but it is working and has some unique features. It should be considered unstable currently.
