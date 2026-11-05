@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="lemonmixerrack012.png" width="800" alt="Lemon Mixer Rack VST3 Plugin Interface">
+</p>
 #Mike's Hard Lemonade or Lemonade for short - cause it is a lemon mixer rack 
 
 
