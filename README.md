@@ -30,6 +30,8 @@ IMHO plugin has improved since the last build but still some major defects, real
 
 Todo more of the same from before, must prioritize figuring out what is causing crashes something is buggy just not sure what yet. All other quality of life improvements are secondary to finding that bug fix. 
 
+To Do  also installed is planned for the vst install for endusers as the actually install structure is getting a little more complex with 3 vsts and an application folder I'm thinking an installer may be easier for people to use than manually installing for people not building.
+
 First off I think this is GPLv3 I'm not aware of any MIT code at this time in the project, it was based of of LEMON Studio's mixer and developed further
 Lemon Studio's repo is here https://github.com/ItsAlphaNeon/Lemon-Studio also this fork is inspiring and equally a great source to draw from https://github.com/Dorfhaus/Lemon-Studio-Michael-Lane-Edition. Michael actually implemented a few things I was thinking about 2 days after I mentioned it and I'd still like to get some similar functionality into Lemonade for loading plugins in specific areas like SSL360 and UA CONSOLE for LUNA.
 
