@@ -40,6 +40,8 @@ Todo more of the same from before, must prioritize figuring out what is causing 
 
 To Do  also installed is planned for the vst install for endusers as the actually install structure is getting a little more complex with 3 vsts and an application folder I'm thinking an installer may be easier for people to use than manually installing for people not building.
 
+TO DO, I'd like to somehow get total scaling introduced or something of the sort need to look into what can be done.
+
 NOVEMBER 4th 2026  11-04-2026
 First off I think this is GPLv3 I'm not aware of any MIT code at this time in the project, it was based of of LEMON Studio's mixer and developed further
 Lemon Studio's repo is here https://github.com/ItsAlphaNeon/Lemon-Studio also this fork is inspiring and equally a great source to draw from https://github.com/Dorfhaus/Lemon-Studio-Michael-Lane-Edition. Michael actually implemented a few things I was thinking about 2 days after I mentioned it and I'd still like to get some similar functionality into Lemonade for loading plugins in specific areas like SSL360 and UA CONSOLE for LUNA.
