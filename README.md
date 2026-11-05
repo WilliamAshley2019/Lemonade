@@ -2,10 +2,10 @@
   <img src="lemonmixerrack012.png" width="800" alt="Lemon Mixer Rack VST3 Plugin Interface">
 </p>
 <p align="center">
-  <img src="lemonslicein.png" width="800" alt="Lemon Slice In VST3 Plugin Interface">
+  <img src="lemonslicein.png" width="100" alt="Lemon Slice In VST3 Plugin Interface">
 </p>
 <p align="center">
-  <img src="lemonsliceout.png" width="800" alt="Lemon Slice Oout VST3 Plugin Interface">
+  <img src="lemonsliceout.png" width="100" alt="Lemon Slice Oout VST3 Plugin Interface">
 </p>
 #Mike's Hard Lemonade or Lemonade for short - cause it is a lemon mixer rack 
 
